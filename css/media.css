@@ -1,0 +1,339 @@
+/* :::::::::::::::: PORTRAIT :::::::::::::::: */
+@media only screen and (max-width: 319px) and (orientation: portrait) {
+	.slit-slide .bg-1 .sl-slide-inner h2::before,
+	.slit-slide .bg-2 .sl-slide-inner h2::before,
+	.slit-slide .bg-3 .sl-slide-inner h2::before,
+	.slit-slide .bg-4 .sl-slide-inner h2::before {
+		left: 47%;
+	}
+	.slit-slide .bg-1 .sl-slide-inner blockquote p {
+    	width: 95%;
+	}
+	.slit-slide .bg-2 .sl-slide-inner blockquote p {
+    	width: 86%;
+    }
+    .slit-slide .sl-slide h2 {
+    	font-size: 22px;
+    }
+    .slit-slide .sl-slide blockquote p {
+    	width: 95%;
+    }
+    .dummy-menu {
+    	padding: 4em 0em 0;
+	}
+    .dummy-menu ul li {
+    	width: 100px;
+    }
+    .mn-qu {
+    	font-size: 55px;
+    	margin: 50px 0 150px;
+    }
+    #cd-placeholder-1 {
+    	padding-bottom: 50px;
+	}
+    .og-grid li {
+    	width: 100%;
+	}
+	.port-wrapper {
+		width: 100%;
+		padding-bottom: 20%;
+	}
+	.js .photostack::after {
+	    width: 60%;
+	}
+	.cd-section h2 img {
+	    width: 30%;
+	}
+	.my-quo p {
+	    font-size: 45px;
+	}
+	.contact-wrap {
+		width: 100%;
+	}
+	.contact-wrap div {
+    	width: 96%;
+    	padding-bottom: 15%;
+	}
+	.port-wrapper p {
+    	font-size: 20px;
+	}
+	.js .photostack::after {
+	    width: 85%;
+	}
+	.cd-section h2 img {
+	    width: 50%;
+	}
+}
+
+@media only screen and (min-width: 320px) and (max-width: 414px) and (orientation: portrait) {
+	.slit-slide .bg-1 .sl-slide-inner h2::before,
+	.slit-slide .bg-2 .sl-slide-inner h2::before,
+	.slit-slide .bg-3 .sl-slide-inner h2::before,
+	.slit-slide .bg-4 .sl-slide-inner h2::before {
+		left: 47%;
+	}
+	.slit-slide .bg-1 .sl-slide-inner blockquote p {
+    	width: 95%;
+	}
+	.slit-slide .bg-2 .sl-slide-inner blockquote p {
+    	width: 86%;
+    }
+    .slit-slide .sl-slide h2 {
+    	font-size: 22px;
+    }
+    .slit-slide .sl-slide blockquote p {
+    	width: 95%;
+    }
+    .dummy-menu {
+    	padding: 4em 0em 0;
+	}
+    .dummy-menu ul li {
+    	width: 100px;
+    }
+    .mn-qu {
+    	font-size: 55px;
+    	margin: 50px 0 150px;
+    }
+    #cd-placeholder-1 {
+    	padding-bottom: 50px;
+	}
+    .og-grid li {
+    	width: 100%;
+	}
+	.port-wrapper {
+		width: 100%;
+		padding-bottom: 20%;
+	}
+	.js .photostack::after {
+	    width: 60%;
+	}
+	.cd-section h2 img {
+	    width: 30%;
+	}
+	.my-quo p {
+	    font-size: 45px;
+	}
+	.contact-wrap {
+		width: 100%;
+	}
+	.contact-wrap div {
+    	width: 96%;
+    	padding-bottom: 15%;
+	}
+	.port-wrapper p {
+    	font-size: 20px;
+	}
+	.js .photostack::after {
+	    width: 85%;
+	}
+	.cd-section h2 img {
+	    width: 50%;
+	}
+}
+
+@media only screen and (min-width: 415px) and (max-width: 767px) and (orientation: portrait) {
+	.slit-slide .bg-1 .sl-slide-inner h2::before,
+	.slit-slide .bg-2 .sl-slide-inner h2::before,
+	.slit-slide .bg-3 .sl-slide-inner h2::before,
+	.slit-slide .bg-4 .sl-slide-inner h2::before {
+		left: 47%;
+	}
+	.slit-slide .sl-slide blockquote span.d-arr {
+		left: 47%;
+	}
+	.slit-slide .bg-1 .sl-slide-inner blockquote p {
+    	width: 90%;
+    }
+    .slit-slide .bg-2 .sl-slide-inner blockquote p {
+    	width: 80%;
+    }
+    .slit-slide .sl-slide h2 {
+    	font-size: 16px;
+    }
+    .slit-slide .sl-slide blockquote p {
+    	width: 85%;
+    }
+    .dummy-menu ul li {
+    	width: 125px;
+    }
+    .mn-qu {
+    	font-size: 45px;
+    	margin: 50px 0 150px;
+    }
+    #cd-placeholder-1 {
+    	padding-bottom: 50px;
+	}
+    .og-grid li {
+    	width: 100%;
+	}
+	.port-wrapper {
+		width: 100%;
+		padding-bottom: 20%;
+	}
+	.js .photostack::after {
+	    width: 60%;
+	}
+	.cd-section h2 img {
+	    width: 30%;
+	}
+	.my-quo p {
+	    font-size: 60px;
+	}
+	.contact-wrap {
+		width: 100%;
+	}
+	.contact-wrap div {
+    	width: 96%;
+    	padding-bottom: 15%;
+	}
+	.js .photostack::after {
+	    width: 80%;
+	}
+	.cd-section h2 img {
+	    width: 40%;
+	}
+}
+
+@media only screen and (min-width: 768px) and (max-width: 959px) and (orientation: portrait) {
+
+	.slit-slide .bg-2 .sl-slide-inner blockquote p,
+	.slit-slide .bg-3 .sl-slide-inner blockquote p {
+	    width: 75%;
+	}
+	.dummy-menu ul li {
+	    width: 240px;
+	}
+	.port-wrapper {
+		width: 100%;
+		padding-bottom: 20%;
+	}
+	.og-grid li {
+	    width: 100%;
+	}
+	.js .photostack::after {
+	    width: 60%;
+	}
+	.cd-section h2 img {
+	    width: 30%;
+	}
+	.my-quo p {
+	    font-size: 70px;
+	}
+} 
+
+@media only screen and (min-width: 960px) and (max-width: 1169px) and (orientation: portrait) {
+
+	.slit-slide .bg-2 .sl-slide-inner blockquote p,
+	.slit-slide .bg-3 .sl-slide-inner blockquote p {
+	    width: 60%;
+	}
+	#cd-placeholder-2 .exp-set div {
+	    width: 33.33%;
+	    float: left;
+	}
+	.port-wrapper {
+		width: 100%;
+		padding-bottom: 15%;
+	}
+	.og-grid li {
+	    width: 50%;
+	}
+	.js .photostack::after {
+	    width: 60%;
+	}
+	.cd-section h2 img {
+	    width: 30%;
+	}
+	.my-quo p {
+	    font-size: 70px;
+	}
+}
+
+
+/* :::::::::::::::: LANDSCAPE :::::::::::::::: */
+
+@media only screen and (min-width: 480px) and (max-width: 640px) and (orientation: landscape) {
+	.slit-slide .bg-1 .sl-slide-inner h2::before,
+	.slit-slide .bg-2 .sl-slide-inner h2::before,
+	.slit-slide .bg-3 .sl-slide-inner h2::before,
+	.slit-slide .bg-4 .sl-slide-inner h2::before {
+		left: 47%;
+	}
+	.slit-slide .bg-2 .sl-slide-inner blockquote p {
+    	width: 65%;
+    }
+    .dummy-menu ul li {
+    	width: 145px;
+    }
+    .mn-qu {
+    	font-size: 42px;
+    	margin: 50px 0 150px;
+    }
+    #cd-placeholder-1 {
+    	padding-bottom: 50px;
+	}
+    .og-grid li {
+    	width: 100%;
+	}
+	.port-wrapper {
+		width: 100%;
+		padding-bottom: 20%;
+	}
+	.js .photostack::after {
+	    width: 60%;
+	}
+	.cd-section h2 img {
+	    width: 30%;
+	}
+	.my-quo p {
+	    font-size: 59px;
+	}
+	.contact-wrap {
+		width: 100%;
+	}
+	.contact-wrap div {
+    	width: 96%;
+    	padding-bottom: 15%;
+	}
+	.js .photostack::after {
+	    width: 80%;
+	}
+	.cd-section h2 img {
+	    width: 40%;
+	}
+}
+
+@media only screen and (max-width: 959px) and (orientation: landscape) {
+	.port-wrapper {
+		width: 100%;
+		padding-bottom: 20%;
+	}
+	.slit-slide .sl-slide h2 {
+    	font-size: 30px;
+	}
+	.slit-slide .bg-2 .sl-slide-inner blockquote p {
+    	width: 55%;
+    }
+	.dummy-menu ul li {
+    	width: 200px;
+	}
+	#cd-placeholder-1 {
+    	padding-bottom: 50px;
+	}
+	.mn-qu {
+    	font-size: 56px;
+    	margin: 50px 0 150px;
+    }
+    .contact-wrap {
+    	width: 100%;
+	}
+	.my-quo p {
+	    font-size: 80px;
+	}
+	.js .photostack::after {
+	    width: 80%;
+	}
+	.cd-section h2 img {
+	    width: 40%;
+	}
+}
