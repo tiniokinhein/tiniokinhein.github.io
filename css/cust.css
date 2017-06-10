@@ -1363,14 +1363,14 @@ i.fa-share-alt::before {
 .mn-qu {
     text-align: center;
     font-family: "Lovers Quarrel",sans-serif;
-    color: black;
+    color: #9c9c9c;
     font-size: 60px;
     margin: 150px 0 350px;
 }
 .fa-quote-left:before ,
 .fa-quote-right:before {
     font-size: 50px;
-    color: black;
+    color: #fff;
     font-weight: 400;
 }
 .port-wrapper {
