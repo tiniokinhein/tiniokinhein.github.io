@@ -1382,7 +1382,7 @@ i.fa-share-alt::before {
 	padding-bottom: 50px;
 }
 .port-wrapper i::before {
-    color: #1d396b;
+    color: #777;
     font-size: 45px;
 }
 .port-wrapper p {
@@ -1392,7 +1392,7 @@ i.fa-share-alt::before {
 }
 .port-wrapper p strong {
 	width: 140px;
-	color: #1d396b;
+	color: #777;
 	font-weight: 400;
 }
 .port-wrapper p a {
