@@ -1396,7 +1396,7 @@ i.fa-share-alt::before {
 	font-weight: 400;
 }
 .port-wrapper p a {
-	color: #1d396b;
+	color: #fff;
 }
 .port-wrapper p a:hover {
 	text-decoration: underline;
