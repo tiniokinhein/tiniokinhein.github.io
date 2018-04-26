@@ -46,6 +46,7 @@
 	text-align: left;
 	height: 0;
 	overflow: hidden;
+	z-index: 55;
 }
 
 .og-expander-inner {
@@ -60,7 +61,6 @@
 	top: 20px;
 	right: 20px;
 	cursor: pointer;
-	z-index: 55;
 }
 
 .og-close::before,
